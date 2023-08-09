@@ -42,9 +42,17 @@
     font-size: 18px;
     line-height: 25px;
     text-transform: capitalize;
+    text-decoration: none;
+    transition: 0.5s ease;
 
     margin: 1rem;
     cursor: pointer;
+}
+
+.gpt3__navbar-links_container p:hover,
+.gpt3__navbar-sign p:hover,
+.gpt3__navbar-menu_container p:hover {
+    border-bottom: 1px solid white;
 }
 
 .gpt3__navbar-sign button,
