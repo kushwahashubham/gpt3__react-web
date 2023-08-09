@@ -87,6 +87,10 @@
   cursor:pointer;
 }
 
+.gpt3__whatgpt3-heading p:hover {
+  color: var(--color-white);
+}
+
 .gpt3__whatgpt3-container {
     display: flex;
     flex-wrap: wrap;
