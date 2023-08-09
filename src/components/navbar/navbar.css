@@ -50,8 +50,7 @@
 }
 
 .gpt3__navbar-links_container p:hover,
-.gpt3__navbar-sign p:hover,
-.gpt3__navbar-menu_container p:hover {
+.gpt3__navbar-sign p:hover {
     border-bottom: 1px solid white;
 }
 
