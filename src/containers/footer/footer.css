@@ -33,6 +33,7 @@
   text-align: center;
   margin-bottom: 10rem;
   cursor: pointer;
+  transition:  0.5s all ease;
 }
 
 .gpt3__footer-btn p {
