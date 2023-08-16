@@ -36,6 +36,17 @@
   transition:  0.5s all ease;
 }
 
+.gpt3__footer-btn:hover {
+  border-style: solid;
+  border-width: 1px;
+  border-image: var(--gradient-text) 1;
+
+  background: var(--gradient-text);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .gpt3__footer-btn p {
   color: #fff;
   font-family: var(--font-family);
